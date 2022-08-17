@@ -11,7 +11,7 @@
 [![version-badge](https://camo.githubusercontent.com/8341cfbe224718e1c2334bc81363673efd2565f8b6878314a96d03e4ce42213b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6369636972656c6c6f2f6d6f6469666965642d6c616d2d6578706572696d656e74733f6c6f676f3d476974487562)](https://github.com/SkippyTheTracer/phantom)
 
 # 📖 Description
-**PHANTOM** is a simple Python scipt which enables a user to text a victim from an anonymous number. The program uses the 'textbelt' API to communicate with a victim using a random generated phone number. Not only can you spoof messages, you can now also receive messages between you and the victim using the intergrated webhook option. With an incredibly simple UI, sms spoofing has never been easier!
+**PHANTOM** is a simple Python script which enables a user to text a victim from an anonymous number. The program uses the 'textbelt' API to communicate with a victim using a random generated phone number. Not only can you spoof messages, you can now also receive messages between you and the victim using the intergrated webhook option. With an incredibly simple UI, sms spoofing has never been easier!
 
 # 🎥 Demo
 ![Phantom Demo](https://j.gifs.com/79kGMj.gif)
