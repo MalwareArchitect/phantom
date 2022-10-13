@@ -3,7 +3,7 @@ import time
 import json
 from pyfiglet import figlet_format
 
-print("\nCreated by SkippyTheTracer")
+print("\nCreated by AlgorithmNerd")
 print(figlet_format("PHANTOM", font = "doom"))
 
 phone_number = input("Phone Number: ")
