@@ -24,7 +24,7 @@ Misuse of **PHANTOM** is illegal. It's the end user's responsibility to obey all
 
 # ⚙️ Installation
 ```console
-skippy@kali:~$ git clone https://github.com/SkippyTheTracer/phantom/
+skippy@kali:~$ git clone https://github.com/AlgorithmNerd/phantom/
 skippy@kali:~$ cd phantom
 skippy@kali:~$ pip3 install -r requirements.txt
 ```
